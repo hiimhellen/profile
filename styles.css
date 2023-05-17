@@ -1,0 +1,21 @@
+body{
+    background-color: lavender;
+    color: black;
+    font-family:'arial';
+    font-size:medium;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    font-family:'Brush Script MT';
+    font-size: xx-large;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
